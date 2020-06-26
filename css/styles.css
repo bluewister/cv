@@ -1,0 +1,43 @@
+
+/****Tag Selections****/
+
+body{
+  background-color: #ecf0f1;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgrey;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+h1{
+  color: #2c3e50;
+}
+
+h3{
+  color: #34495e;
+}
+
+
+
+/****Class Selections****/
+
+.profile_picture{
+  width: 150px;
+  border-radius: 100%;
+}
+
+
+/****ID Selections****/
+
+#Title{
+  color: #2c3e50;
+}
+
+#Title:hover{
+  color: #3498db;
+}
